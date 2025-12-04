@@ -7,8 +7,6 @@
 
 > Automatically extract and organize expenses from bank statements (PDFs/images) into Google Sheets using AI, n8n, and a modern web interface
 
-![Workflow Overview](docs/workflow.jpg)
-
 ## 📘 Introduction
 
 **AI Expense Tracker** is a low-code automation built with **n8n** that leverages **OpenAI**, **Google Drive**, and **Google Sheets** to automate personal finance tracking.
